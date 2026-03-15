@@ -1,109 +1,122 @@
-# Hi there, I'm Aung Phyo Kyaw 👋
+<h1 align="left">👋 Hi there, I'm Aung Phyo Kyaw</h1>
 
-### Fullstack Developer
+<p align="left">
+  <b>Fullstack Developer</b><br>
+  Based in Akita, Japan 🇯🇵
+</p>
 
-I'm a fullstack developer who loves building useful products, solving real problems, and learning new technologies.  
-Currently working as a **Software Engineer at One Terrace**.
+<p align="left">
+  I'm a fullstack developer passionate about building useful web applications,
+  scalable internal systems, and AI-powered products that solve real-world problems.
+</p>
 
----
-
-## 🚀 About Me
-
-- 💼 Fullstack Developer with experience in web application development
-- 🌍 Based in **Akita, Japan**
-- 🧠 Interested in building scalable systems, internal tools, and AI-powered applications
-- 🛠 Strong experience in both frontend and backend development
-- 🇯🇵 Japanese: N3 level
-- 🇬🇧 English: Intermediate
-
----
-
-## 🛠 Tech Stack
-
-### Languages & Frameworks
-- PHP
-- TypeScript
-- JavaScript
-- Laravel
-- Next.js
-- React.js
-- Node.js
-
-### Databases
-- MySQL
-- PostgreSQL
-
-### Tools & Other Skills
-- REST API
-- Git
-- CI/CD
-- API integration
-- Role-based systems
-- Dashboard & admin panel development
+<p align="left">
+  <a href="mailto:ovalspd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ovalspd%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/aungphyokyaw">
+    <img src="https://img.shields.io/badge/GitHub-aungphyokyaw-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 💼 Work Experience
+## 🚀 Profile Views
 
-### Software Engineer — One Terrace
-**11/2023 – Present**
-
-- Maintained and improved multiple core products across compliance, assessment, and workflow domains
-- Built full-stack features including frontend, backend, APIs, authentication, permissions, dashboards, and reporting
-- Improved release quality and delivery speed through automated testing, static analysis, API standardization, and CI/CD
-- Worked closely with product, design, and QA teams to ship stable and maintainable features
-
-### System Engineer — Bliss-Stock Co. Ltd
-**06/2022 – 10/2023**
-
-- Worked on outsourcing projects with multilingual teams
-- Built applications using PHP, Python, Java, and Node.js
-- Strengthened software engineering fundamentals through practical project delivery
-
-### Web Developer — Asia Zeus Co. Ltd
-**06/2020 – 10/2020**
-
-- Developed landing pages and online applications using PHP Laravel, CodeIgniter, and VB.NET
-- Expanded backend and programming knowledge across multiple technologies
+![](https://komarev.com/ghpvc/?username=aungphyokyaw&color=blueviolet&style=flat-square)
 
 ---
 
-## 📌 Featured Projects
+## 💡 When I code, I rely on
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-222222?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+---
+
+## 💼 About Me
+
+- 💻 Fullstack developer with experience in frontend, backend, APIs, and databases
+- 🏢 Currently working as a **Software Engineer at One Terrace**
+- 🌍 Living in **Akita, Japan**
+- 🤖 Interested in **AI-powered applications** and productivity systems
+- 🧩 I enjoy building practical products that improve workflows and user experience
+- 🇯🇵 Japanese: **N3**
+- 🇬🇧 English: **Intermediate**
+
+---
+
+## 📌 Highlight Projects
 
 ### Compliance Wizard
-Web-based compliance support application with customizable frameworks, audit settings, and AI-powered workflows.
+A compliance support platform with customizable frameworks, audit settings, and AI-powered workflows.
 
 ### Catalog Management System
-Digital catalog management platform with AI/OCR-based extraction, master data operations, cloud exports, and real-time tracking.
+An AI/OCR-powered catalog digitization platform with structured extraction, exports, and real-time progress tracking.
 
 ### NAIKAN
-Internal audit SaaS with planning, findings, evidence collection, surveys, role-based portals, and Stripe billing.
+An internal audit SaaS covering planning, findings, evidence collection, surveys, Stripe billing, and role-based access.
 
 ### Company Assessment
-Assessment platform for company evaluations, questionnaires, scoring, certification, and public/free-assessment flows.
+An assessment system with questionnaire flows, scoring, evaluation workflows, and certification features.
 
 ### Gairoushi
-Online course and enrollment platform with date-based content control and payment integration.
-
-### CCDX
-Call center support project with speech-to-text workflow and real-time data processing.
-
-### E-learning
-Online learning platform for admins, teachers, and students.
+An online course and enrollment platform with content access control and payment integration.
 
 ### RB-Advance
-WordPress-based beauty salon website with reusable CMS-driven pages and interactive UI components.
+A WordPress-based website with reusable CMS-driven pages, interactive UI, and responsive layouts.
+
+---
+
+## 📈 GitHub Contributions Summary
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aungphyokyaw&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=aungphyokyaw&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+## 🧠 Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aungphyokyaw&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+## 🌱 Current Focus
+
+- Building scalable Laravel / React / Next.js applications
+- Improving architecture and code quality
+- Integrating AI into real business workflows
+- Growing as a stronger fullstack engineer in Japan
 
 ---
 
 ## 📫 Contact
 
 - Email: **ovalspd@gmail.com**
-- GitHub: [github.com/aungphyokyaw](https://github.com/aungphyokyaw)
+- GitHub: **[github.com/aungphyokyaw](https://github.com/aungphyokyaw)**
 - Location: **Akita, Japan**
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy coding, building practical systems, and continuously improving my skills as a developer.
+I enjoy building practical systems, learning new technologies, and turning complex workflows into simple user experiences.
